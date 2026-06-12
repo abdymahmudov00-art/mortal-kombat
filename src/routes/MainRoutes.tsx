@@ -5,6 +5,9 @@ const MainRoutes = () => {
     { link: "/", element: "" },
     { link: "/", element: "" },
     { link: "/", element: "" },
+    { link: "/", element: "" },
+    { link: "/", element: "" },
+    { link: "/", element: "" },
   ];
 
   return (
