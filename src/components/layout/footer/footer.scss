@@ -1,17 +1,15 @@
 #footer {
   box-sizing: border-box;
+  background:
+    linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.3)),
+    url("https://i.pinimg.com/1200x/67/05/7a/67057ab7e0d033a169ed8661f85b2170.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  height: 70vh;
 
   .footer {
-    background:
-      linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.3)),
-      url("https://i.pinimg.com/1200x/67/05/7a/67057ab7e0d033a169ed8661f85b2170.jpg");
-
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-attachment: scroll;
-    height: 70vh;
-
     .logoFooter {
       padding: 30px 10px 10px;
       display: flex;

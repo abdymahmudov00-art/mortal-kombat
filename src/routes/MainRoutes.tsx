@@ -1,4 +1,5 @@
 import { Route, Routes } from "react-router-dom";
+import Faq from "../components/pages/home/FAQ/Faq";
 
 const MainRoutes = () => {
   const routes = [
@@ -6,8 +7,7 @@ const MainRoutes = () => {
     { link: "/", element: "" },
     { link: "/", element: "" },
     { link: "/", element: "" },
-    { link: "/", element: "" },
-    { link: "/", element: "" },
+    { link: "/faq", element: <Faq/> },
   ];
 
   return (
