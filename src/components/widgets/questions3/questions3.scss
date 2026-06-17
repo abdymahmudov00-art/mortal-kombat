@@ -1,4 +1,4 @@
-.r {
+.i {
   margin-top: 100px;
   display: flex;
   flex-direction: column;
@@ -7,7 +7,7 @@
 
 p {
   margin-top: 15px;
-  font-size: 19px;
+  font-size: 24px;
   font-family: "Roboto Condensed";
 }
 h2 {
@@ -15,7 +15,12 @@ h2 {
   font-family: "MajestyBold";
   font-size: 30px;
 }
-.card {
+.card3 {
   margin-left: 200px;
 }
-@import url("https://fonts.googleapis.com/css2?family=Permanent+Marker&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap");
+h1{
+    font-size: 35px;
+    text-align: center;
+}
+@import url("https://fonts.googleapis.com/css2?family=Permanent+Marker&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap")
+

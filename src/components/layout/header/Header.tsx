@@ -24,7 +24,7 @@ const Header = () => {
               <a href="#" className="nav-menu__item">
                 <span className="nav-menu__text">MEDIA</span>
               </a>
-              <a href="#" className="nav-menu__item">
+              <a href="/faq" className="nav-menu__item">
                 <span className="nav-menu__text">FAQ</span>
               </a>
             </nav>
